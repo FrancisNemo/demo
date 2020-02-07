@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: tester
+    password: demo110
+    url: jdbc:mysql://localhost:3306/demo?allowMultiQueries=true&useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
